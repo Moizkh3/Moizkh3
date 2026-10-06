@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moiz Khatri</h1>
 <h3 align="center">A passioate Software Engineer from Pakistan</h3>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-sigma-two-10.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://moizkh3.vercel.app/)
 
 - 📫 How to reach me **khatrimoiz86@gmail.com**
 
